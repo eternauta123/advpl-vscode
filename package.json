@@ -177,7 +177,7 @@
                 },
                 "advpl.compileFolderRegex": {
                     "type": "string",
-                    "default": ".*\\.(prw|prx|prg|apw|aph|tres|png|bmp|res)",
+                    "default": ".*\\.(prw|prx|prg|apw|aph|tres|png|bmp|res|apl)",
                     "description": "%advpl.configuration.properties.ADVPLCOMPILEFOLDERREGEX%"
                 },
                 "advpl.pathPatchBuild": {
